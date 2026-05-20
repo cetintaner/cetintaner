@@ -19,7 +19,7 @@
 
 ## 🚀 Hakkımda
 
-Ankara, Hacettepe Üniversitesi Teknokent'te yer alan **Heysem Eğitim Teknolojileri A.Ş.**'nin kurucusu olarak, eğitim ile ileri teknolojiyi (IoT, Robotik, İHA) birleştiren sistemler inşa ediyorum.
+Eğitim ile ileri teknolojiyi (IoT, Robotik, İHA) birleştiren sistemler inşa ediyorum.
 
 - ⚙️ **Uzmanlık Alanlarım:** VTOL Dronelar, Hibrit Güç Sistemleri, Otonom Robotik Sistemler ve Yazılım Mimarisi (Flutter/Firebase).
 - 🎓 Hacettepe Üniversitesi'nde akademik/mühendislik çalışmaları yaptım.
