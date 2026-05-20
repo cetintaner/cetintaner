@@ -4,7 +4,7 @@
 
   <h1>👋 Merhaba, Ben Mesut Taner Çetin</h1>
   
-  <h3>Eğitmenim</h3>
+  <h3>Eğitmen</h3>
   
   <p><b>"Bilme, Bulma ve Olma"</b> felsefesiyle eğitim teknolojilerinde geleceği kodluyorum.</p>
 
