@@ -23,7 +23,7 @@ Eğitim ile ileri teknolojiyi (IoT, Robotik, İHA) birleştiren sistemler inşa 
 
 - ⚙️ **Uzmanlık Alanlarım:** VTOL Dronelar, Hibrit Güç Sistemleri, Otonom Robotik Sistemler ve Yazılım Mimarisi (Flutter/Firebase).
 - 🎓 Hacettepe Üniversitesi'nde akademik/mühendislik çalışmaları yaptım.
-- 🌱 Sürekli olarak İnsansız Hava Araçları (Visual Odometry, GPS-independent flight) ve yeni nesil donanım entegrasyonları üzerine Ar-Ge yapım süreim oldu.
+- 🌱 Sürekli olarak İnsansız Hava Araçları (Visual Odometry, GPS-independent flight) ve yeni nesil donanım entegrasyonları üzerine Ar-Ge yapım sürecim oldu.
 
 
 ## 📫 İletişim & Ağ
