@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://avatars.githubusercontent.com/u/cetintaner" alt="Mesut Taner Çetin" width="150" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/92790662?v=4" alt="Mesut Taner Çetin" width="150" style="border-radius:50%;"/>
 
   <h1>👋 Merhaba, Ben Mesut Taner Çetin</h1>
   
