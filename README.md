@@ -4,7 +4,7 @@
 
   <h1>👋 Merhaba, Ben Mesut Taner Çetin</h1>
   
-  <h3>Girişimci, Mühendis & Heysem Eğitim Teknolojileri Yönetim Kurulu Başkanı</h3>
+  <h3>Eğitmenim</h3>
   
   <p><b>"Bilme, Bulma ve Olma"</b> felsefesiyle eğitim teknolojilerinde geleceği kodluyorum.</p>
 
@@ -21,27 +21,15 @@
 
 Ankara, Hacettepe Üniversitesi Teknokent'te yer alan **Heysem Eğitim Teknolojileri A.Ş.**'nin kurucusu olarak, eğitim ile ileri teknolojiyi (IoT, Robotik, İHA) birleştiren sistemler inşa ediyorum.
 
-- 🔭 Şu anda **Heysem Unified Platform** (Bütünleşik Eğitim ve Hub Yönetim SaaS Modeli) üzerinde çalışıyorum.
-- ⚙️ **Uzmanlık Alanlarım:** VTOL Dronelar, Hibrit Güç Sistemleri, Otonom Robotik Sistemler (HÜSMART) ve Yazılım Mimarisi (Flutter/Firebase).
-- 🎓 Hacettepe Üniversitesi'nde akademik/mühendislik çalışmalarıma devam ediyorum.
-- 🌱 Sürekli olarak İnsansız Hava Araçları (Visual Odometry, GPS-independent flight) ve yeni nesil donanım entegrasyonları üzerine Ar-Ge yapıyorum.
+- ⚙️ **Uzmanlık Alanlarım:** VTOL Dronelar, Hibrit Güç Sistemleri, Otonom Robotik Sistemler ve Yazılım Mimarisi (Flutter/Firebase).
+- 🎓 Hacettepe Üniversitesi'nde akademik/mühendislik çalışmaları yaptım.
+- 🌱 Sürekli olarak İnsansız Hava Araçları (Visual Odometry, GPS-independent flight) ve yeni nesil donanım entegrasyonları üzerine Ar-Ge yapım süreim oldu.
 
----
-
-## 🏗️ Öne Çıkan Projem: Heysem Hub Ekosistemi
-
-Sıradan bir eğitim platformunun ötesinde; Türkiye geneline yayılan fiziksel atölyeleri (**Heysem Hub**), kurumsal okul sözleşmelerini (MEB & Kolejler), eğitmen atamalarını ve binlerce öğrenciyi tek bir merkezden yöneten devasa bir SaaS altyapısı geliştiriyorum.
-
-* **Donanım & Yazılım Entegrasyonu:** RFID/QR okuyuculu IoT destekli yoklama terminalleri.
-* **Dağıtık Mikro Envanter:** Merkez depodan şubelere akıllı lojistik ve malzeme takip algoritması.
-* **Yapay Zeka & Veri Analizi:** Öğrencilerin müfredat bazlı kazanımlarını izleyen anlık performans ekranları.
-
----
 
 ## 📫 İletişim & Ağ
 
 <div align="left">
-  <a href="mailto:mesut@heysem.com">
+  <a href="mailto:tanercetin0420@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/SENIN_LINKEDIN_ADRESIN">
